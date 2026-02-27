@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "313393108590",
+    "project_id": "matchbook-3e9fe",
+    "storage_bucket": "matchbook-3e9fe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313393108590:android:59c280bf5653e10e8b387f",
+        "android_client_info": {
+          "package_name": "week11.st221773.matchbook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSjL4brYU8vFBouNIBRyaCKMiiO3GCpYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
