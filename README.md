@@ -3,16 +3,13 @@
 ## Preview
 
 <p align="center">
-  <img src="FitnessApp/screenshots/hexafit2.png" width="24%"/>
-  <img src="FitnessApp/screenshots/hexafit8.jpg" width="24%"/>
-  <img src="FitnessApp/screenshots/hexafit9.png" width="24%"/>
-  <img src="FitnessApp/screenshots/hexafit1.png" width="24%"/>
+  <img src="matchbook/matchbook1.png" width="45%"/>
+  <img src="matchbook/matchbook2.png" width="45%"/>
 </p>
 
 <p align="center">
-   <img src="FitnessApp/screenshots/hexafit5.jpg" width="25%"/>
-   <img src="FitnessApp/screenshots/hexafit6.jpg" width="25%"/>
-   <img src="FitnessApp/screenshots/hexafit7.jpg" width="25%"/>
+  <img src="matchbook/matchbook5.png" width="45%"/>
+  <img src="matchbook/matchbook6.png" width="45%"/>
 </p>
 
 ---
