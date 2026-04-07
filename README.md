@@ -3,10 +3,10 @@
 ## Preview
 
 <p align="center">
-  <img src="matchbook/matchbook1.png" width="25%"/>
-  <img src="matchbook/matchbook2.png" width="25%"/>
-  <img src="matchbook/matchbook5.png" width="25%"/>
-  <img src="matchbook/matchbook6.png" width="25%"/>
+  <img src="matchbook/matchbook1.png" width="24%"/>
+  <img src="matchbook/matchbook2.png" width="24%"/>
+  <img src="matchbook/matchbook5.png" width="24%"/>
+  <img src="matchbook/matchbook6.png" width="24%"/>
 </p>
 
 ---
